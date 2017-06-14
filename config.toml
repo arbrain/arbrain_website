@@ -1,0 +1,4 @@
+baseURL = "http://arbrain.github.io/"
+languageCode = "en-us"
+title = "Arbrain"
+theme = "anybodyhome"
